@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="62b02f56-591f-4cb9-8c96-bdb07d5c9af0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ochoz</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>I.</text>
+      </navLabel>
+      <content src="Text/ochoz_06.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Ve chvíli, kdy…</text>
+        </navLabel>
+        <content src="Text/ochoz_07.html"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Ranní hůl</text>
+        </navLabel>
+        <content src="Text/ochoz_08.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Červen, červenec</text>
+        </navLabel>
+        <content src="Text/ochoz_09.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Srpen</text>
+        </navLabel>
+        <content src="Text/ochoz_10.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Září</text>
+        </navLabel>
+        <content src="Text/ochoz_11.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Říjen</text>
+        </navLabel>
+        <content src="Text/ochoz_12.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Listopad</text>
+        </navLabel>
+        <content src="Text/ochoz_13.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Krátká hůl</text>
+        </navLabel>
+        <content src="Text/ochoz_14.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Křivá hůl</text>
+        </navLabel>
+        <content src="Text/ochoz_15.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>II.</text>
+      </navLabel>
+      <content src="Text/ochoz_16.html"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Podzim</text>
+        </navLabel>
+        <content src="Text/ochoz_17.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Vysečeným dvorem</text>
+        </navLabel>
+        <content src="Text/ochoz_18.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Večer</text>
+        </navLabel>
+        <content src="Text/ochoz_19.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Nesmrtelky</text>
+        </navLabel>
+        <content src="Text/ochoz_20.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Všech svatých</text>
+        </navLabel>
+        <content src="Text/ochoz_21.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Dedikace</text>
+        </navLabel>
+        <content src="Text/ochoz_22.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Na břehu cesty</text>
+        </navLabel>
+        <content src="Text/ochoz_23.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Calendae</text>
+        </navLabel>
+        <content src="Text/ochoz_24.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Kresba krajiny</text>
+        </navLabel>
+        <content src="Text/ochoz_25.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>K večeři</text>
+        </navLabel>
+        <content src="Text/ochoz_26.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Žena bližního</text>
+        </navLabel>
+        <content src="Text/ochoz_27.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Na šifru štěkotu</text>
+        </navLabel>
+        <content src="Text/ochoz_28.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Deleatur</text>
+        </navLabel>
+        <content src="Text/ochoz_29.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Sen</text>
+        </navLabel>
+        <content src="Text/ochoz_30.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Rýpnutí okna</text>
+        </navLabel>
+        <content src="Text/ochoz_31.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Oproti</text>
+        </navLabel>
+        <content src="Text/ochoz_32.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Je cítit</text>
+        </navLabel>
+        <content src="Text/ochoz_33.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>III.</text>
+      </navLabel>
+      <content src="Text/ochoz_34.html"/>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>25. XII.</text>
+        </navLabel>
+        <content src="Text/ochoz_35.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>29. XII.</text>
+        </navLabel>
+        <content src="Text/ochoz_36.html"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>V lednu, ráno</text>
+        </navLabel>
+        <content src="Text/ochoz_37.html"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Vinou</text>
+        </navLabel>
+        <content src="Text/ochoz_38.html"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Obratel dnešního rána</text>
+        </navLabel>
+        <content src="Text/ochoz_39.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Lednová sucha</text>
+        </navLabel>
+        <content src="Text/ochoz_40.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Z dopisu, 4. I.</text>
+        </navLabel>
+        <content src="Text/ochoz_41.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>14. I.</text>
+        </navLabel>
+        <content src="Text/ochoz_42.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Do hry s černými acháty</text>
+        </navLabel>
+        <content src="Text/ochoz_43.html"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Tursko</text>
+        </navLabel>
+        <content src="Text/ochoz_44.html"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Lermontov, 5. II.</text>
+        </navLabel>
+        <content src="Text/ochoz_45.html"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>7. II.</text>
+        </navLabel>
+        <content src="Text/ochoz_46.html"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Zápis, 9. II.</text>
+        </navLabel>
+        <content src="Text/ochoz_47.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>11. II.</text>
+        </navLabel>
+        <content src="Text/ochoz_48.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>IV.</text>
+      </navLabel>
+      <content src="Text/ochoz_49.html"/>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Zatmy</text>
+        </navLabel>
+        <content src="Text/ochoz_50.html"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>5. VI.</text>
+        </navLabel>
+        <content src="Text/ochoz_51.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

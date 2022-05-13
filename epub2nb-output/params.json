@@ -1,0 +1,1027 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Ochoz",
+      "identifier": "62b02f56-591f-4cb9-8c96-bdb07d5c9af0",
+      "author": "Petr Borkovec",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-04-13T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "ochoz_01.md",
+            "xhtml": "ochoz_01.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_02.md",
+            "xhtml": "ochoz_02.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_03.md",
+            "xhtml": "ochoz_03.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_04.md",
+            "xhtml": "ochoz_04.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_05.md",
+            "xhtml": "ochoz_05.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_06.md",
+            "xhtml": "ochoz_06.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_07.md",
+            "xhtml": "ochoz_07.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_08.md",
+            "xhtml": "ochoz_08.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_09.md",
+            "xhtml": "ochoz_09.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_10.md",
+            "xhtml": "ochoz_10.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_11.md",
+            "xhtml": "ochoz_11.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_12.md",
+            "xhtml": "ochoz_12.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_13.md",
+            "xhtml": "ochoz_13.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_14.md",
+            "xhtml": "ochoz_14.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_15.md",
+            "xhtml": "ochoz_15.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_16.md",
+            "xhtml": "ochoz_16.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_17.md",
+            "xhtml": "ochoz_17.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_18.md",
+            "xhtml": "ochoz_18.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_19.md",
+            "xhtml": "ochoz_19.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_20.md",
+            "xhtml": "ochoz_20.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_21.md",
+            "xhtml": "ochoz_21.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_22.md",
+            "xhtml": "ochoz_22.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_23.md",
+            "xhtml": "ochoz_23.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_24.md",
+            "xhtml": "ochoz_24.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_25.md",
+            "xhtml": "ochoz_25.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_26.md",
+            "xhtml": "ochoz_26.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_27.md",
+            "xhtml": "ochoz_27.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_28.md",
+            "xhtml": "ochoz_28.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_29.md",
+            "xhtml": "ochoz_29.html",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_30.md",
+            "xhtml": "ochoz_30.html",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_31.md",
+            "xhtml": "ochoz_31.html",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_32.md",
+            "xhtml": "ochoz_32.html",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_33.md",
+            "xhtml": "ochoz_33.html",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_34.md",
+            "xhtml": "ochoz_34.html",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_35.md",
+            "xhtml": "ochoz_35.html",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_36.md",
+            "xhtml": "ochoz_36.html",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_37.md",
+            "xhtml": "ochoz_37.html",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_38.md",
+            "xhtml": "ochoz_38.html",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_39.md",
+            "xhtml": "ochoz_39.html",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_40.md",
+            "xhtml": "ochoz_40.html",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_41.md",
+            "xhtml": "ochoz_41.html",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_42.md",
+            "xhtml": "ochoz_42.html",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_43.md",
+            "xhtml": "ochoz_43.html",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_44.md",
+            "xhtml": "ochoz_44.html",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_45.md",
+            "xhtml": "ochoz_45.html",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_46.md",
+            "xhtml": "ochoz_46.html",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_47.md",
+            "xhtml": "ochoz_47.html",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_48.md",
+            "xhtml": "ochoz_48.html",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_49.md",
+            "xhtml": "ochoz_49.html",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_50.md",
+            "xhtml": "ochoz_50.html",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_51.md",
+            "xhtml": "ochoz_51.html",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ochoz_52.md",
+            "xhtml": "ochoz_52.html",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Ochoz",
+      "identifier": "62b02f56-591f-4cb9-8c96-bdb07d5c9af0",
+      "author": "Petr Borkovec",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-04-13T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_01.md",
+        "xhtml": "ochoz_01.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_02.md",
+        "xhtml": "ochoz_02.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_03.md",
+        "xhtml": "ochoz_03.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_04.md",
+        "xhtml": "ochoz_04.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_05.md",
+        "xhtml": "ochoz_05.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_06.md",
+        "xhtml": "ochoz_06.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_07.md",
+        "xhtml": "ochoz_07.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_08.md",
+        "xhtml": "ochoz_08.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_09.md",
+        "xhtml": "ochoz_09.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_10.md",
+        "xhtml": "ochoz_10.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_11.md",
+        "xhtml": "ochoz_11.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_12.md",
+        "xhtml": "ochoz_12.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_13.md",
+        "xhtml": "ochoz_13.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_14.md",
+        "xhtml": "ochoz_14.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_15.md",
+        "xhtml": "ochoz_15.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_16.md",
+        "xhtml": "ochoz_16.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_17.md",
+        "xhtml": "ochoz_17.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_18.md",
+        "xhtml": "ochoz_18.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_19.md",
+        "xhtml": "ochoz_19.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_20.md",
+        "xhtml": "ochoz_20.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_21.md",
+        "xhtml": "ochoz_21.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_22.md",
+        "xhtml": "ochoz_22.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_23.md",
+        "xhtml": "ochoz_23.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_24.md",
+        "xhtml": "ochoz_24.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_25.md",
+        "xhtml": "ochoz_25.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_26.md",
+        "xhtml": "ochoz_26.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_27.md",
+        "xhtml": "ochoz_27.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_28.md",
+        "xhtml": "ochoz_28.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_29.md",
+        "xhtml": "ochoz_29.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_30.md",
+        "xhtml": "ochoz_30.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_31.md",
+        "xhtml": "ochoz_31.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_32.md",
+        "xhtml": "ochoz_32.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_33.md",
+        "xhtml": "ochoz_33.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_34.md",
+        "xhtml": "ochoz_34.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_35.md",
+        "xhtml": "ochoz_35.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_36.md",
+        "xhtml": "ochoz_36.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_37.md",
+        "xhtml": "ochoz_37.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_38.md",
+        "xhtml": "ochoz_38.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_39.md",
+        "xhtml": "ochoz_39.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_40.md",
+        "xhtml": "ochoz_40.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_41.md",
+        "xhtml": "ochoz_41.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_42.md",
+        "xhtml": "ochoz_42.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_43.md",
+        "xhtml": "ochoz_43.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_44.md",
+        "xhtml": "ochoz_44.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_45.md",
+        "xhtml": "ochoz_45.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_46.md",
+        "xhtml": "ochoz_46.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_47.md",
+        "xhtml": "ochoz_47.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_48.md",
+        "xhtml": "ochoz_48.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_49.md",
+        "xhtml": "ochoz_49.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_50.md",
+        "xhtml": "ochoz_50.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_51.md",
+        "xhtml": "ochoz_51.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ochoz_52.md",
+        "xhtml": "ochoz_52.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre12",
+      "calibre13",
+      "calibre14",
+      "calibre15",
+      "calibre4",
+      "calibre5",
+      "calibre6",
+      "e-bookdejapoznamkykurzivatucnechar",
+      "e-bookdejapoznamkytucnechar",
+      "e-booklicenceobrazek",
+      "e-booklicenceparagraf",
+      "e-booklicencetext",
+      "e-booklicencetexthypertext9bchar",
+      "e-booknadpis",
+      "e-booknadpis1samostatnastranka",
+      "e-booknadpis2probasne",
+      "e-booknadpis2vpravo",
+      "e-booktirazacitacetext",
+      "e-booktirazacitacetext1",
+      "e-booktirazacitacetextkurzivachar",
+      "e-booktirazautoradilo",
+      "e-booktirazodsazeni6b",
+      "e-booktitulkaautor",
+      "e-booktitulkadilo",
+      "e-bookvenovani",
+      "ochoz0-0l13nastred",
+      "ochoz0-0lvlevo",
+      "ochoz0-0midnastred",
+      "ochoz0-0r13vlevo",
+      "ochoz0-0rvpravo",
+      "ochoz0-12lvlevo",
+      "ochoz0-12rvpravo",
+      "ochoz12-0midnastred",
+      "ochoz12-12l13nastred",
+      "ochoz12-12l13vpravo",
+      "ochoz12-12lvlevo",
+      "ochoz12-12midnastred",
+      "ochoz12-12midvpravo",
+      "ochoz12-12r13nastred",
+      "ochoz12-12r13vlevo",
+      "ochoz12-12r25vlevo",
+      "ochoz12-12rvlevo",
+      "ochoz12-12rvpravo",
+      "ochoz12-12rvpravoi",
+      "ochoz12-30lvlevo",
+      "ochozpseudovenovanicxspfirst",
+      "ochozpseudovenovanicxsplast",
+      "pcalibre",
+      "pcalibre1",
+      "styl",
+      "wordsection",
+      "wordsection1",
+      "wordsection10",
+      "wordsection11",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "borkovec-ochoz"
+    },
+    "generatedAt": 1652420393096
+  }
+}
