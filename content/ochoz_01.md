@@ -1,0 +1,5 @@
+---
+contentType: prose
+---
+
+![Ochoz](./resources/obalka.jpg)
