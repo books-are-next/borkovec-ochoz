@@ -1,8 +1,7 @@
 ---
+title: Do hry s černými acháty
 contentType: prose
 ---
-
-## Do hry s černými acháty
 
 Za stolem, v tmě přetopené,  
 s rakem do hlavy hluboko vsunutým,  

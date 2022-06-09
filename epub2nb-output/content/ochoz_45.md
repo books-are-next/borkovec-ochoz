@@ -1,8 +1,7 @@
 ---
+title: Lermontov, 5\. II\.
 contentType: prose
 ---
-
-## Lermontov, 5. II.
 
 (Rozhodně.) Neřeknu nic.     Anebo —  
 všechno vám povím…      (Několik slov šeptem.) Ano,  

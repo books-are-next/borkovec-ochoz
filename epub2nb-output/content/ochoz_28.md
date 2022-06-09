@@ -1,8 +1,7 @@
 ---
+title: Na šifru štěkotu
 contentType: prose
 ---
-
-## Na šifru štěkotu
 
 Na šifru štěkotu,  
 černý klín dvorku vrážen  

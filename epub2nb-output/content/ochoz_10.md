@@ -1,8 +1,7 @@
 ---
+title: Srpen
 contentType: prose
 ---
-
-## Srpen
 
 Rok bez otav. Horký  
 spáč zív. Zdvíhá se hlína.  

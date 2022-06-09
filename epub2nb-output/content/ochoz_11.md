@@ -1,8 +1,7 @@
 ---
+title: Září
 contentType: prose
 ---
-
-## Září
 
 Vlci se vypařují k nebi. Zřetelná  
 lovná sunutí. A ještě zbývá  

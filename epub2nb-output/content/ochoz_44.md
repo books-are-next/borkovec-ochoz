@@ -1,8 +1,7 @@
 ---
+title: Tursko
 contentType: prose
 ---
-
-## Tursko
 
 Vokolkovým
 
@@ -17,5 +16,5 @@ pole.
 Drmma a hrmma a drmma a hrm:  
 v polích Ers.
 
-Tursko. To  t a r a s.  
-Lyrik. To  l a r.
+Tursko. _To_  **_t_** _a_ **_r_** _a s.  
+_Lyrik. _To_  **_l_** _a_ **_r_**_._

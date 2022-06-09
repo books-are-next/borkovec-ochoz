@@ -1,8 +1,7 @@
 ---
+title: Všech svatých
 contentType: prose
 ---
-
-## Všech svatých
 
 Pouť trouby a troubení na věnce z mahonu  
 jde kolem výklenků a pohublých síní,  

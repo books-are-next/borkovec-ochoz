@@ -1,8 +1,7 @@
 ---
+title: K večeři
 contentType: prose
 ---
-
-## K večeři
 
 … když pojednou se rozzpíval  
 jak šerý ochořelý pták…

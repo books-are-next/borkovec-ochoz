@@ -1,8 +1,7 @@
 ---
+title: Vinou
 contentType: prose
 ---
-
-## Vinou
 
 Vinou utkvělého hejna sletí říjnový list.  
 Vinou drobné zvěře dva, tři. Stěží padne čtvrtý.  

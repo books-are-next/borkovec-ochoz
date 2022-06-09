@@ -1,8 +1,7 @@
 ---
+title: 25\. XII\.
 contentType: prose
 ---
-
-## 25\. XII.
 
 Zůstat upřen o těchto složitých svátcích,  
 vedřít se klikatým jmelím  

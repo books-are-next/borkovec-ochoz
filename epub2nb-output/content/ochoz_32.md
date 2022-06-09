@@ -1,8 +1,7 @@
 ---
+title: Oproti
 contentType: prose
 ---
-
-## Oproti
 
 Když stavba končí  
 k okapu drátují březové metly,  

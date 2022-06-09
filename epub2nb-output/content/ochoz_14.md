@@ -1,8 +1,7 @@
 ---
+title: Krátká hůl
 contentType: prose
 ---
-
-## Krátká hůl
 
 Ty,
 

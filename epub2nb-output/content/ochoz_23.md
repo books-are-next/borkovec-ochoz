@@ -1,8 +1,7 @@
 ---
+title: "Na břehu cesty\_\_\_\_\_"
 contentType: prose
 ---
-
-## Na břehu cesty     
 
   Na břehu cesty,  
 na úpatí cesty  

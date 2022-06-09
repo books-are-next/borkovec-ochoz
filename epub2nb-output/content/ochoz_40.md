@@ -1,8 +1,7 @@
 ---
+title: Lednová sucha
 contentType: prose
 ---
-
-## Lednová sucha
 
 Žádné radosti. Ani malé.  
 V rozeschlém okně výsek rynku.  

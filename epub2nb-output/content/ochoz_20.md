@@ -1,8 +1,7 @@
 ---
+title: Nesmrtelky
 contentType: prose
 ---
-
-## Nesmrtelky
 
 Bývá to v říjnu.  
 Ještě za tmy.

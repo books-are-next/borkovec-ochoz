@@ -1,8 +1,7 @@
 ---
+title: Rýpnutí okna
 contentType: prose
 ---
-
-## Rýpnutí okna
 
 Rýpnutí okna  
 místnosti, v níž spím,  

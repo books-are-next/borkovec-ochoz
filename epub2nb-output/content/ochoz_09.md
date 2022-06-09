@@ -1,8 +1,7 @@
 ---
+title: Červen, červenec
 contentType: prose
 ---
-
-## Červen, červenec
 
 Kleká se.
 

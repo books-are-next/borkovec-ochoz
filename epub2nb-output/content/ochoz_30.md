@@ -1,8 +1,7 @@
 ---
+title: Sen
 contentType: prose
 ---
-
-## Sen
 
 V noci jsem nespal. K ránu  
 chodily postavy po dvoře,  

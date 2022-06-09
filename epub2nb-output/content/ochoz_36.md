@@ -1,8 +1,7 @@
 ---
+title: 29\. XII\.
 contentType: prose
 ---
-
-## 29\. XII.
 
 Nic není, než to pouhé: ne,  
 sklon písma, kterým napsané  
