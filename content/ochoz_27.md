@@ -1,8 +1,7 @@
 ---
+title: Žena bližního
 contentType: prose
 ---
-
-## Žena bližního
 
 — Dnes ano? — Ne. — Kdo jsi? —  
 Klikatý vítr v okně, z návsi  

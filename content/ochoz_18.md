@@ -1,8 +1,7 @@
 ---
+title: Vysečeným dvorem
 contentType: prose
 ---
-
-## Vysečeným dvorem
 
 Vysečeným dvorem  
 vynáší večer popel denních soust,  

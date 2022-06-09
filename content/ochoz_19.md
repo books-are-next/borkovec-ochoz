@@ -1,8 +1,7 @@
 ---
+title: Večer
 contentType: prose
 ---
-
-## Večer
 
 Rozkývává se sklonek dne.  
 Ku nebi valenému  

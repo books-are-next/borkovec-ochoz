@@ -1,8 +1,7 @@
 ---
+title: Obratel dnešního rána
 contentType: prose
 ---
-
-## Obratel dnešního rána
 
 Kadlubná temná věc v zádech.  
 Ale sen se mi nezdál.  

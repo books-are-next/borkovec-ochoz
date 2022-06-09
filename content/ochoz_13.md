@@ -1,8 +1,7 @@
 ---
+title: Listopad
 contentType: prose
 ---
-
-## Listopad
 
 Všech,  
 řekla Marie Veselkova.  

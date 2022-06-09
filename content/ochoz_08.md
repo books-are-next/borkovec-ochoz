@@ -1,8 +1,7 @@
 ---
+title: Ranní hůl
 contentType: prose
 ---
-
-## Ranní hůl
 
 Je ráno nebes.  
 Již kohouti pějí,  

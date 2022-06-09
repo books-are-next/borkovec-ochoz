@@ -1,8 +1,7 @@
 ---
+title: Dedikace
 contentType: prose
 ---
-
-## Dedikace
 
 Já vás tu všude potkávám.
 

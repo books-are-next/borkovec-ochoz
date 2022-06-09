@@ -1,8 +1,7 @@
 ---
+title: 5\. VI\.
 contentType: prose
 ---
-
-## 5\. VI.
 
 Noční hodina. Čerň pevná tak,  
 že podepírá. Tuš stéká věží,  

@@ -1,8 +1,7 @@
 ---
+title: Podzim
 contentType: prose
 ---
-
-## Podzim
 
 Rozhnědlá cesta jak opilá  
 k obzoru vleče se, už soumrak.  

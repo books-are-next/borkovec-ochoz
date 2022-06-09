@@ -1,8 +1,7 @@
 ---
+title: Křivá hůl
 contentType: prose
 ---
-
-## Křivá hůl
 
 kerej na flétnu  
 kerej hrá  

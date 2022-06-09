@@ -1,8 +1,7 @@
 ---
+title: Ve chvíli, kdy…
 contentType: prose
 ---
-
-## Ve chvíli, kdy…
 
 Ve chvíli, kdy kočka vchází žrát,  
 kdy ze síně se slunce ztrácí,  

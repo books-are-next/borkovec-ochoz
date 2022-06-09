@@ -1,8 +1,7 @@
 ---
+title: Deleatur
 contentType: prose
 ---
-
-## Deleatur
 
 Co říct  
 za touto zahradou, kůlnami, za vsí, v níž o věž  

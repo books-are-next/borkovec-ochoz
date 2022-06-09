@@ -1,8 +1,7 @@
 ---
+title: Zatmy
 contentType: prose
 ---
-
-## Zatmy
 
 Nad čtvrtí půlnoc. V hlavách postele  
 nástěnné uřezané tělo. Odbíjí.  

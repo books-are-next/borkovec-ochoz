@@ -1,8 +1,7 @@
 ---
+title: V lednu, ráno
 contentType: prose
 ---
-
-## V lednu, ráno
 
 Bezchybné rošty zahrad. V okrajích lesa  
 napnuté uzly strádajících srn. K prasknutí.  

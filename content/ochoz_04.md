@@ -1,8 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Znění tohoto textu vychází z díla Ochoz tak, jak bylo vydáno nakladatelstvím Mladá fronta v roce 1994 (BORKOVEC, Petr. Ochoz: 1990–1993. 1. vyd. Praha: Mladá fronta, 1994. 74 s.).
+Znění tohoto textu vychází z díla Ochoz tak, jak bylo vydáno nakladatelstvím Mladá fronta v roce 1994 (BORKOVEC, Petr. _Ochoz: 1990–1993_. 1. vyd. Praha: Mladá fronta, 1994. 74 s.).
 
 * * *
 
@@ -14,7 +15,7 @@ Text díla (Petr Borkovec: Ochoz), publikovaného [Městskou knihovnou v Praze]
 
 Citační záznam této e-knihy:
 
-BORKOVEC, Petr. Ochoz \[online\]. V MKP 1. vyd. Praha: Městská knihovna v Praze, 2017 \[aktuální datum citace e-knihy – př. cit. rrrr-mm-dd\]. ISBN 978-80-7532-718-5 (epub). Dostupné z:
+BORKOVEC, Petr. _Ochoz_ \[online\]. V MKP 1. vyd. Praha: Městská knihovna v Praze, 2017 \[aktuální datum citace e-knihy – př. cit. rrrr-mm-dd\]. ISBN 978-80-7532-718-5 (epub). Dostupné z:
 
 [http://web2.mlp.cz/koweb/00/04/33/50/04/ochoz.epub](http://web2.mlp.cz/koweb/00/04/33/50/04/ochoz.epub).
 

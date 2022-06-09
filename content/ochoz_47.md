@@ -1,8 +1,7 @@
 ---
+title: Zápis, 9\. II\.
 contentType: prose
 ---
-
-## Zápis, 9. II.
 
 … trhali jsme je  
 všemu vzdáleni v lesích.  

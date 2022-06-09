@@ -1,8 +1,7 @@
 ---
+title: Kresba krajiny
 contentType: prose
 ---
-
-## Kresba krajiny
 
 Prstem v krvi,  
 neboť se zabíjí.  

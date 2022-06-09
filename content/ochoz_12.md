@@ -1,8 +1,7 @@
 ---
+title: Říjen
 contentType: prose
 ---
-
-## Říjen
 
 Nebe má v sobě  
 pernaté hejble,  
@@ -15,14 +14,14 @@ krysích
 
 nohou smrad.  
 Panenka počerná řekla:  
-Pif
+_Pif_
 
 Panenka počerná řekla:  
-Pif pif pif  
+_Pif pif pif  
 Kazatelna ryb  
 Pod zimou korále  
 Tatrčí sandále  
-Pif pif pif
+Pif pif pif_
 
 Děvenky otvírají laňku,  
 posunuté k polím,  
@@ -31,4 +30,4 @@ ruce hřát
 a jablka péct,  
 jejich prsty se protknou.  
 Panenka počerná řekla:  
-Pif
+_Pif_

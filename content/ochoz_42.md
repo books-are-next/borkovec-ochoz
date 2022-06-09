@@ -1,8 +1,7 @@
 ---
+title: 14\. I\.
 contentType: prose
 ---
-
-## 14\. I.
 
 Vitráží: — ves v kozelci, do sněhu vbitá.  
 Zdvižená na sněhu. Zelení, žlutí farníci,  
