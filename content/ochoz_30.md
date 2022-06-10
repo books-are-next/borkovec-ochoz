@@ -3,6 +3,8 @@ title: Sen
 contentType: prose
 ---
 
+<section>
+
 V noci jsem nespal. K ránu  
 chodily postavy po dvoře,  
 hledaly mrtvou v její komoře.  
@@ -22,3 +24,5 @@ okno dokořán.
 ale sen,  
 který zůstavím v rámech svých oken,  
 má jméno Půst… —
+
+</section>

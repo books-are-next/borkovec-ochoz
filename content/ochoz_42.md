@@ -3,6 +3,8 @@ title: 14\. I\.
 contentType: prose
 ---
 
+<section>
+
 Vitráží: — ves v kozelci, do sněhu vbitá.  
 Zdvižená na sněhu. Zelení, žlutí farníci,  
 červený povoz, modrá pod kopyta.  
@@ -12,3 +14,5 @@ Do sivé břečky dupou koníci.
 opratě zlátnou: — Půjdem, poledne. —  
 Muzika spustí, oranžová, sytá.  
 Nikde nic černého. Pohřeb se hne.
+
+</section>

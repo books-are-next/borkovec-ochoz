@@ -3,6 +3,8 @@ title: Oproti
 contentType: prose
 ---
 
+<section>
+
 Když stavba končí  
 k okapu drátují březové metly,  
 noc na to nemohu spát.
@@ -28,3 +30,5 @@ Druhého dne
 jediná kopie k nalezení,  
 ta poslední,  
 ta nečitelná.
+
+</section>

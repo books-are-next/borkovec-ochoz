@@ -3,6 +3,8 @@ title: Rýpnutí okna
 contentType: prose
 ---
 
+<section>
+
 Rýpnutí okna  
 místnosti, v níž spím,  
 mě odkrývá noci.  
@@ -18,3 +20,5 @@ Avšak za oknem už jinak,
 jiná smlouva —  
 probuzen do dvou tří milostných vteřin,  
 v zádech jakoby zpřerážen.
+
+</section>

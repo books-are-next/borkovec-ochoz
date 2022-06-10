@@ -3,6 +3,8 @@ title: Zatmy
 contentType: prose
 ---
 
+<section>
+
 Nad čtvrtí půlnoc. V hlavách postele  
 nástěnné uřezané tělo. Odbíjí.  
 — Ustel. — Ne. — Co ti je? —  
@@ -61,3 +63,5 @@ Je přes půlnoc. Tma rozstrkaná
 náhle se svine v šeptající zjev.  
 Teď… Trvá. Nerozumím ale.  
 A ani nevím: šepot?… sípot?… řev?…
+
+</section>

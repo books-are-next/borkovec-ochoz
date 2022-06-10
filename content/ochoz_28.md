@@ -3,6 +3,8 @@ title: Na šifru štěkotu
 contentType: prose
 ---
 
+<section>
+
 Na šifru štěkotu,  
 černý klín dvorku vrážen  
 do opřených motyk,  
@@ -16,3 +18,5 @@ jenž v lehkém spánku zašeptá:
 
 Co ti patří, co tě stihne,  
 záludný jazyku?
+
+</section>

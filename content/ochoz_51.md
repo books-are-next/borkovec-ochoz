@@ -3,6 +3,8 @@ title: 5\. VI\.
 contentType: prose
 ---
 
+<section>
+
 Noční hodina. Čerň pevná tak,  
 že podepírá. Tuš stéká věží,  
 zahlcený zvuk. Smekl se pták  
@@ -12,3 +14,5 @@ kdesi, kam už nelze. Lemae:
 navršit náčrty, sta kreseb, skic —  
 a zešílet. Na tváři trne  
 černý údiv — tma mizí, noc je nic.
+
+</section>

@@ -3,6 +3,8 @@ title: Lednová sucha
 contentType: prose
 ---
 
+<section>
+
 Žádné radosti. Ani malé.  
 V rozeschlém okně výsek rynku.  
 Nucený výsek. Zasněžený.  
@@ -17,3 +19,5 @@ Nevidět, neslyšet možnost. Jen
 si říkám: Cíp psa — pes chcíp.  
 Říkám si: Nucený výsek.  
 Říkám si: Kým? Koho?
+
+</section>

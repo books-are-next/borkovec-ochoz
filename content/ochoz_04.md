@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla Ochoz tak, jak bylo vydáno nakladatelstvím Mladá fronta v roce 1994 (BORKOVEC, Petr. _Ochoz: 1990–1993_. 1. vyd. Praha: Mladá fronta, 1994. 74 s.).
 
 * * *
@@ -28,3 +30,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 * * *
 
 Verze 1.0 z 21. 4. 2017.
+
+</section>

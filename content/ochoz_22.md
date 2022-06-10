@@ -1,7 +1,11 @@
 ---
-title: Dedikace
+title: ''
 contentType: prose
 ---
+
+<section>
+
+## Dedikace
 
 Já vás tu všude potkávám.
 
@@ -29,3 +33,5 @@ Pták v kruzích slétá,
 trpce vrší celou.
 
 Já vás tu všude potkávám…
+
+</section>

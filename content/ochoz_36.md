@@ -3,6 +3,8 @@ title: 29\. XII\.
 contentType: prose
 ---
 
+<section>
+
 Nic není, než to pouhé: ne,  
 sklon písma, kterým napsané  
 je, není, není, je:  
@@ -17,3 +19,5 @@ zabořen v krvotoku
 Milencův černý dopis ve stole.  
 Je tam i není, je i ne.  
 Jsem tu a nejsem, jsem i ne.
+
+</section>

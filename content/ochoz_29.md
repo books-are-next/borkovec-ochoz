@@ -3,6 +3,8 @@ title: Deleatur
 contentType: prose
 ---
 
+<section>
+
 Co říct  
 za touto zahradou, kůlnami, za vsí, v níž o věž  
 opírá se noc, v bolestech hlavy a zubů trnoucí, záblá,  
@@ -19,3 +21,5 @@ očekávaje znamení, snad kruhu, snad trnitého,
 očekávaje prostě nějaké znamení; co říct, když  
 oblohou jen hladcí ptáci, kreslící letem  
 velká Deleatur?
+
+</section>

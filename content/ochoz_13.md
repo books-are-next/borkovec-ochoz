@@ -1,7 +1,11 @@
 ---
-title: Listopad
+title: ''
 contentType: prose
 ---
+
+<section>
+
+## Listopad
 
 Všech,  
 řekla Marie Veselkova.  
@@ -35,3 +39,5 @@ Všech,
 řekla Marie Veselkova.  
 Svatejch,  
 řekla eště.
+
+</section>

@@ -1,7 +1,11 @@
 ---
-title: K večeři
+title: ''
 contentType: prose
 ---
+
+<section>
+
+## K večeři
 
 … když pojednou se rozzpíval  
 jak šerý ochořelý pták…
@@ -19,3 +23,5 @@ hovor: — Je chladno. — Zima. —
 Dvůr opisuje šerý, smrtelně ochořelý pták.  
 Trvá. Slyším jak trvá, napsat dopis,  
 trvá, slyšet jak trvá, trvá.
+
+</section>

@@ -1,7 +1,11 @@
 ---
-title: Krátká hůl
+title: ''
 contentType: prose
 ---
+
+<section>
+
+## Krátká hůl
 
 Ty,
 
@@ -16,3 +20,5 @@ který se objevuješ
 v nahém ošacení,  
 sňat jsi ze své kůže,  
 zvěří oříhán —
+
+</section>
