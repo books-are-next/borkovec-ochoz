@@ -3,6 +3,8 @@ title: Vinou
 contentType: prose
 ---
 
+<section>
+
 Vinou utkvělého hejna sletí říjnový list.  
 Vinou drobné zvěře dva, tři. Stěží padne čtvrtý.  
 Vinou větru a sněhů, letos brzkých,  
@@ -13,3 +15,5 @@ ať se díváš sebelíp,
 holý strom to nedá.
 
 Stejně tak —
+
+</section>

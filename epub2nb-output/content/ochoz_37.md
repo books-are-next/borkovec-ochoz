@@ -1,7 +1,11 @@
 ---
-title: V lednu, ráno
+title: ''
 contentType: prose
 ---
+
+<section>
+
+## V lednu, ráno
 
 Bezchybné rošty zahrad. V okrajích lesa  
 napnuté uzly strádajících srn. K prasknutí.  
@@ -17,3 +21,5 @@ slyším se říkat:
 Vstala jsem k oknu, vyšla až na dvůr, zkoušela číst,  
 budila tě,  
 ale ty nebyls… —
+
+</section>

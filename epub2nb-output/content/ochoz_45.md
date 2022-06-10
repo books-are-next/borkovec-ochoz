@@ -3,6 +3,8 @@ title: Lermontov, 5\. II\.
 contentType: prose
 ---
 
+<section>
+
 (Rozhodně.) Neřeknu nic.     Anebo —  
 všechno vám povím…      (Několik slov šeptem.) Ano,  
 prostě žasnu! Pak uklouzla — a pryč.  
@@ -30,3 +32,5 @@ Kdo o mě otírá se? O koho já?
 obcházen. Obcházím nocí. Teď už temnou.  
 A mě? A se mnou? (Ukáže náramek.)  
 Tak jako ve snu? Sen?…
+
+</section>

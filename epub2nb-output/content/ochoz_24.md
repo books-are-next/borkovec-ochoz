@@ -3,6 +3,8 @@ title: Calendae
 contentType: prose
 ---
 
+<section>
+
 Z posedů schází sníh,  
 okus jej,  
 na dvorku kohout křídly škube  
@@ -32,3 +34,5 @@ tělo se do sebe choulí,
 hodiny kruhy opisují
 
 a nelze si na nic vzpomenout.
+
+</section>

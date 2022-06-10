@@ -3,6 +3,8 @@ title: 25\. XII\.
 contentType: prose
 ---
 
+<section>
+
 Zůstat upřen o těchto složitých svátcích,  
 vedřít se klikatým jmelím  
 nad černé blouznící dítě,  
@@ -17,3 +19,5 @@ kdosi mě opraví
 a ani nepřekročím práh.  
 A přesto: Zůstat upřen.  
 Vedřít se. Vřít. Zavřít.
+
+</section>

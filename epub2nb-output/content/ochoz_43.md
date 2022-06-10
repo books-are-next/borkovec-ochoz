@@ -3,6 +3,8 @@ title: Do hry s černými acháty
 contentType: prose
 ---
 
+<section>
+
 Za stolem, v tmě přetopené,  
 s rakem do hlavy hluboko vsunutým,  
 hodiny strnulým, hodiny o vteřinu couvajícím,  
@@ -17,3 +19,5 @@ V pohaslých kamenech
 slabikuje má vlastní tvář:  
 Po — ra — žen.  
 Pomalu šeptám své hloupé jméno.
+
+</section>

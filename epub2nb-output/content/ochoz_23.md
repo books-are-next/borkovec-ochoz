@@ -1,7 +1,11 @@
 ---
-title: "Na břehu cesty\_\_\_\_\_"
+title: ''
 contentType: prose
 ---
+
+<section>
+
+## Na břehu cesty     
 
   Na břehu cesty,  
 na úpatí cesty  
@@ -39,3 +43,5 @@ bláto přimyká střevíce
 o této hodině,  
   dni,  
     tohoto raného adventu.
+
+</section>

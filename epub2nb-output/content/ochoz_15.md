@@ -3,6 +3,8 @@ title: Křivá hůl
 contentType: prose
 ---
 
+<section>
+
 kerej na flétnu  
 kerej hrá  
 kerej do bubnu  
@@ -49,3 +51,5 @@ to ty seš       ó ty
 a my jen s bubínky    ó my jen
 
 Pane
+
+</section>

@@ -1,7 +1,11 @@
 ---
-title: Z dopisu, 4\. I\.
+title: ''
 contentType: prose
 ---
+
+<section>
+
+## Z dopisu, 4. I.
 
 Ve 2 hod. má pohřeb Žofina Slavatova.  
 Do rána napadlo trochu sněhu  
@@ -17,3 +21,5 @@ Nemůžu vydržet s kolenama.
 Měli prý to velký ale lidi je pomlouvali.  
 Štěstí jim padalo celý den pořádně pršelo.  
 Snad už to vezme ňáký konec.
+
+</section>

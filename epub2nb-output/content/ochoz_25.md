@@ -3,6 +3,8 @@ title: Kresba krajiny
 contentType: prose
 ---
 
+<section>
+
 Prstem v krvi,  
 neboť se zabíjí.  
 Dvůr dvorem vytloukán.  
@@ -21,3 +23,5 @@ Krev od krve. Chci-li poodejít — chci víc? —
 je mi jít  
 po rozcákaných strupech  
 tiskařské černi.
+
+</section>
