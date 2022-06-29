@@ -1,6 +1,6 @@
 ---
 title: Zápis, 9\. II\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Všech svatých
-contentType: prose
+contentType: poetry
 ---
 
 <section>

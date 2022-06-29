@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Z dopisu, 4\. I\.
+contentType: poetry
 ---
 
 <section>
-
-## Z dopisu, 4. I.
 
 Ve 2 hod. má pohřeb Žofina Slavatova.  
 Do rána napadlo trochu sněhu  

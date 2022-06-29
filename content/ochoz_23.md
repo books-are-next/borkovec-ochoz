@@ -1,13 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: "Na břehu cesty\_\_\_\_\_"
+contentType: poetry
 ---
 
 <section>
 
-## Na břehu cesty     
-
-  Na břehu cesty,  
+Na břehu cesty,  
 na úpatí cesty  
   šněruji střevíce svých slov
 

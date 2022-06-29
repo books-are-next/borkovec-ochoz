@@ -1,6 +1,6 @@
 ---
 title: Je cítit
-contentType: prose
+contentType: poetry
 ---
 
 <section>

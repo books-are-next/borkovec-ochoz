@@ -1,6 +1,6 @@
 ---
 title: Žena bližního
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Červen, červenec
+contentType: poetry
 ---
 
 <section>
-
-## Červen, červenec
 
 Kleká se.
 

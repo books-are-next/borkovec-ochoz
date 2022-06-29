@@ -1,6 +1,6 @@
 ---
 title: Na šifru štěkotu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

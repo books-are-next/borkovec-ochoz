@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Nesmrtelky
+contentType: poetry
 ---
 
 <section>
-
-## Nesmrtelky
 
 Bývá to v říjnu.  
 Ještě za tmy.

@@ -2,19 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Ochoz
   identifier: 62b02f56-591f-4cb9-8c96-bdb07d5c9af0
   author: Petr Borkovec
   publisher: Městská knihovna v Praze
   modified: '2017-04-13T00:00:00.000Z'
+  edition: poezie
+  publisherShort: mkp
+  contentType: poetry
 readingOrder:
   - promo.html
-  - ochoz_01.html
-  - ochoz_02.html
-  - ochoz_03.html
-  - ochoz_04.html
   - ochoz_05.html
   - ochoz_06.html
   - ochoz_07.html
@@ -62,11 +62,93 @@ readingOrder:
   - ochoz_49.html
   - ochoz_50.html
   - ochoz_51.html
-  - ochoz_52.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: ochoz_05.html
+        title: Věnování
+        hiddenTitle: true
+      - link: ochoz_07.html
+        title: Ve chvíli, kdy…
+        hiddenTitle: false
+      - link: ochoz_15.html
+        title: Křivá hůl
+        hiddenTitle: false
+      - link: ochoz_19.html
+        title: Večer
+        hiddenTitle: false
+      - link: ochoz_21.html
+        title: Všech svatých
+        hiddenTitle: false
+      - link: ochoz_24.html
+        title: Calendae
+        hiddenTitle: false
+      - link: ochoz_25.html
+        title: Kresba krajiny
+        hiddenTitle: false
+      - link: ochoz_27.html
+        title: Žena bližního
+        hiddenTitle: false
+      - link: ochoz_28.html
+        title: Na šifru štěkotu
+        hiddenTitle: false
+      - link: ochoz_29.html
+        title: Deleatur
+        hiddenTitle: false
+      - link: ochoz_30.html
+        title: Sen
+        hiddenTitle: false
+      - link: ochoz_31.html
+        title: Rýpnutí okna
+        hiddenTitle: false
+      - link: ochoz_32.html
+        title: Oproti
+        hiddenTitle: false
+      - link: ochoz_33.html
+        title: Je cítit
+        hiddenTitle: false
+      - link: ochoz_35.html
+        title: 25. XII.
+        hiddenTitle: false
+      - link: ochoz_36.html
+        title: 29. XII.
+        hiddenTitle: false
+      - link: ochoz_38.html
+        title: Vinou
+        hiddenTitle: false
+      - link: ochoz_40.html
+        title: Lednová sucha
+        hiddenTitle: false
+      - link: ochoz_42.html
+        title: 14. I.
+        hiddenTitle: false
+      - link: ochoz_43.html
+        title: Do hry s černými acháty
+        hiddenTitle: false
+      - link: ochoz_44.html
+        title: Tursko
+        hiddenTitle: false
+      - link: ochoz_45.html
+        title: Lermontov, 5. II.
+        hiddenTitle: false
+      - link: ochoz_46.html
+        title: 7. II.
+        hiddenTitle: false
+      - link: ochoz_47.html
+        title: Zápis, 9. II.
+        hiddenTitle: false
+      - link: ochoz_48.html
+        title: 11. II.
+        hiddenTitle: false
+      - link: ochoz_50.html
+        title: Zatmy
+        hiddenTitle: false
+      - link: ochoz_51.html
+        title: 5. VI.
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
@@ -74,5 +156,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---

@@ -1,6 +1,6 @@
 ---
 title: Oproti
-contentType: prose
+contentType: poetry
 ---
 
 <section>

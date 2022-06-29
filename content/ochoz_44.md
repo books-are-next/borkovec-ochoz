@@ -1,11 +1,11 @@
 ---
 title: Tursko
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Vokolkovým
+_Vokolkovým_
 
 Větrno. Klektání větví.  
 Verš ne. Natožpak věty.  

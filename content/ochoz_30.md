@@ -1,6 +1,6 @@
 ---
 title: Sen
-contentType: prose
+contentType: poetry
 ---
 
 <section>

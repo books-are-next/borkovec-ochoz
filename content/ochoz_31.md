@@ -1,6 +1,6 @@
 ---
 title: Rýpnutí okna
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,21 +1,19 @@
 ---
-title: ''
-contentType: prose
+title: Dedikace
+contentType: poetry
 ---
 
 <section>
-
-## Dedikace
 
 Já vás tu všude potkávám.
 
 Větve se prázdní,  
 pták plný smutných minut vzlétá  
 (… uviděl  
-                na hrobech  
+            na hrobech  
 ryšavé lišky dávit  
 podzimničné růže.)  
-                                 a temně střádá,
+            a temně střádá,
 
 v půlhodinách  
 do protichůdných stvolů listopadek  

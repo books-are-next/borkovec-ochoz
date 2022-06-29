@@ -1,6 +1,6 @@
 ---
 title: Calendae
-contentType: prose
+contentType: poetry
 ---
 
 <section>

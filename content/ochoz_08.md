@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Ranní hůl
+contentType: poetry
 ---
 
 <section>
-
-## Ranní hůl
 
 Je ráno nebes.  
 Již kohouti pějí,  

@@ -1,6 +1,6 @@
 ---
 title: Do hry s černými acháty
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,10 +1,6 @@
 ---
-title: ''
-contentType: prose
+title: II\.
+contentType: poetry
 ---
 
-<section>
 
-# II.
-
-</section>
