@@ -1,6 +1,6 @@
 ---
 title: 14\. I\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

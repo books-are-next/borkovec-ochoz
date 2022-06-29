@@ -1,6 +1,6 @@
 ---
 title: Křivá hůl
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -23,8 +23,8 @@ buď si jistej   a uslyš nás
 buď si jistej   a uslyš nás  
 buď si jistej   a uslyš náš    triangl z větví  
 buď si jistej   a uslyš nás  
-                             uslyš  
-                               jó?
+             uslyš  
+            jó?
 
 skrze bubínky a pišty zaslyšeni  
 od nemocí hladu a moru uchráněni  

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Říjen
+contentType: poetry
 ---
 
 <section>
-
-## Říjen
 
 Nebe má v sobě  
 pernaté hejble,  

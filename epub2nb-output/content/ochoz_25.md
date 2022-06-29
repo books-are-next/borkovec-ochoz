@@ -1,6 +1,6 @@
 ---
 title: Kresba krajiny
-contentType: prose
+contentType: poetry
 ---
 
 <section>

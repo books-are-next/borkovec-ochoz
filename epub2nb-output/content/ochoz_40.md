@@ -1,6 +1,6 @@
 ---
 title: Lednová sucha
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Listopad
+contentType: poetry
 ---
 
 <section>
-
-## Listopad
 
 Všech,  
 řekla Marie Veselkova.  

@@ -1,6 +1,6 @@
 ---
 title: Zatmy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Lermontov, 5\. II\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -14,9 +14,9 @@ prostě žasnu! Pak uklouzla — a pryč.
 
 městem, krev vyráží mi, porůznu.  
 Rukou hned k nosu, projdu záděrami, osahám  
-zkornatělý ret —             
+zkornatělý ret —            
 
-                          a nic.
+            a nic.
 
 Zatím je noc, sám míjím lékárnu, lampy
 
@@ -27,7 +27,7 @@ Kde se to bere? (Vzrušen.)     Kdo tu je?
 
 Kdo o mě otírá se? O koho já?
 
-(Uklidněn trochu.)                           … obcházím
+(Uklidněn trochu.)             … obcházím
 
 obcházen. Obcházím nocí. Teď už temnou.  
 A mě? A se mnou? (Ukáže náramek.)  

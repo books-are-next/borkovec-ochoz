@@ -1,6 +1,6 @@
 ---
 title: Večer
-contentType: prose
+contentType: poetry
 ---
 
 <section>

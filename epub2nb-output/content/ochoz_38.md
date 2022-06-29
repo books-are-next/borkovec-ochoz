@@ -1,6 +1,6 @@
 ---
 title: Vinou
-contentType: prose
+contentType: poetry
 ---
 
 <section>

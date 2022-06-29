@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Srpen
+contentType: poetry
 ---
 
 <section>
-
-## Srpen
 
 Rok bez otav. Horký  
 spáč zív. Zdvíhá se hlína.  

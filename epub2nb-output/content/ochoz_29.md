@@ -1,6 +1,6 @@
 ---
 title: Deleatur
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: 5\. VI\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

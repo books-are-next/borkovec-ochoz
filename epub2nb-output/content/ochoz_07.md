@@ -1,6 +1,6 @@
 ---
 title: Ve chvíli, kdy…
-contentType: prose
+contentType: poetry
 ---
 
 <section>

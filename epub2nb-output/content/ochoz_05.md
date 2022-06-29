@@ -1,10 +1,11 @@
 ---
 title: ''
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-Přátelům z revue **S.**
+_Přátelům z revue **S.**_
 
 </section>

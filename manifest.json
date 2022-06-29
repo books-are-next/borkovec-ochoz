@@ -1,0 +1,1054 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Ochoz",
+  "author": "Petr Borkovec",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "borkovec-ochoz-26ea689",
+  "revision": "26ea689",
+  "readingOrder": [
+    "promo.html",
+    "ochoz_05.html",
+    "ochoz_06.html",
+    "ochoz_07.html",
+    "ochoz_08.html",
+    "ochoz_09.html",
+    "ochoz_10.html",
+    "ochoz_11.html",
+    "ochoz_12.html",
+    "ochoz_13.html",
+    "ochoz_14.html",
+    "ochoz_15.html",
+    "ochoz_16.html",
+    "ochoz_17.html",
+    "ochoz_18.html",
+    "ochoz_19.html",
+    "ochoz_20.html",
+    "ochoz_21.html",
+    "ochoz_22.html",
+    "ochoz_23.html",
+    "ochoz_24.html",
+    "ochoz_25.html",
+    "ochoz_26.html",
+    "ochoz_27.html",
+    "ochoz_28.html",
+    "ochoz_29.html",
+    "ochoz_30.html",
+    "ochoz_31.html",
+    "ochoz_32.html",
+    "ochoz_33.html",
+    "ochoz_34.html",
+    "ochoz_35.html",
+    "ochoz_36.html",
+    "ochoz_37.html",
+    "ochoz_38.html",
+    "ochoz_39.html",
+    "ochoz_40.html",
+    "ochoz_41.html",
+    "ochoz_42.html",
+    "ochoz_43.html",
+    "ochoz_44.html",
+    "ochoz_45.html",
+    "ochoz_46.html",
+    "ochoz_47.html",
+    "ochoz_48.html",
+    "ochoz_49.html",
+    "ochoz_50.html",
+    "ochoz_51.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Jun 29 2022 07:51:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656489108925
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ochoz_05.html",
+      "toc": []
+    },
+    {
+      "title": "Ochoz",
+      "file": "ochoz_05.html",
+      "words": 4,
+      "chars": 19,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "ochoz_06.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I.",
+      "file": "ochoz_06.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ochoz_05.html",
+      "next": "ochoz_07.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ve chvíli, kdy…",
+      "file": "ochoz_07.html",
+      "words": 31,
+      "chars": 146,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ochoz_06.html",
+      "next": "ochoz_08.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ve chvíli, kdy…",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ranní hůl",
+      "file": "ochoz_08.html",
+      "words": 109,
+      "chars": 679,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ochoz_07.html",
+      "next": "ochoz_09.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ranní hůl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červen, červenec",
+      "file": "ochoz_09.html",
+      "words": 89,
+      "chars": 484,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 5,
+      "prev": "ochoz_08.html",
+      "next": "ochoz_10.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červen, červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Srpen",
+      "file": "ochoz_10.html",
+      "words": 88,
+      "chars": 461,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 6,
+      "prev": "ochoz_09.html",
+      "next": "ochoz_11.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Srpen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Září",
+      "file": "ochoz_11.html",
+      "words": 70,
+      "chars": 372,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 7,
+      "prev": "ochoz_10.html",
+      "next": "ochoz_12.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Říjen",
+      "file": "ochoz_12.html",
+      "words": 63,
+      "chars": 358,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ochoz_11.html",
+      "next": "ochoz_13.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Říjen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Listopad",
+      "file": "ochoz_13.html",
+      "words": 63,
+      "chars": 390,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 9,
+      "prev": "ochoz_12.html",
+      "next": "ochoz_14.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Listopad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krátká hůl",
+      "file": "ochoz_14.html",
+      "words": 33,
+      "chars": 177,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 10,
+      "prev": "ochoz_13.html",
+      "next": "ochoz_15.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krátká hůl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Křivá hůl",
+      "file": "ochoz_15.html",
+      "words": 129,
+      "chars": 663,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 11,
+      "prev": "ochoz_14.html",
+      "next": "ochoz_16.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Křivá hůl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II.",
+      "file": "ochoz_16.html",
+      "words": 1,
+      "chars": 3,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 12,
+      "prev": "ochoz_15.html",
+      "next": "ochoz_17.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Podzim",
+      "file": "ochoz_17.html",
+      "words": 47,
+      "chars": 246,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 13,
+      "prev": "ochoz_16.html",
+      "next": "ochoz_18.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Podzim",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vysečeným dvorem",
+      "file": "ochoz_18.html",
+      "words": 63,
+      "chars": 385,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 14,
+      "prev": "ochoz_17.html",
+      "next": "ochoz_19.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vysečeným dvorem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Večer",
+      "file": "ochoz_19.html",
+      "words": 66,
+      "chars": 369,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 15,
+      "prev": "ochoz_18.html",
+      "next": "ochoz_20.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Večer",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nesmrtelky",
+      "file": "ochoz_20.html",
+      "words": 29,
+      "chars": 152,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 16,
+      "prev": "ochoz_19.html",
+      "next": "ochoz_21.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nesmrtelky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Všech svatých",
+      "file": "ochoz_21.html",
+      "words": 81,
+      "chars": 474,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 17,
+      "prev": "ochoz_20.html",
+      "next": "ochoz_22.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Všech svatých",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dedikace",
+      "file": "ochoz_22.html",
+      "words": 66,
+      "chars": 400,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 18,
+      "prev": "ochoz_21.html",
+      "next": "ochoz_23.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dedikace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na břehu cesty",
+      "file": "ochoz_23.html",
+      "words": 81,
+      "chars": 481,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 19,
+      "prev": "ochoz_22.html",
+      "next": "ochoz_24.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na břehu cesty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Calendae",
+      "file": "ochoz_24.html",
+      "words": 83,
+      "chars": 460,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 20,
+      "prev": "ochoz_23.html",
+      "next": "ochoz_25.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Calendae",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kresba krajiny",
+      "file": "ochoz_25.html",
+      "words": 56,
+      "chars": 310,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 21,
+      "prev": "ochoz_24.html",
+      "next": "ochoz_26.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kresba krajiny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "K večeři",
+      "file": "ochoz_26.html",
+      "words": 70,
+      "chars": 422,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 22,
+      "prev": "ochoz_25.html",
+      "next": "ochoz_27.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "K večeři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žena bližního",
+      "file": "ochoz_27.html",
+      "words": 48,
+      "chars": 241,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 23,
+      "prev": "ochoz_26.html",
+      "next": "ochoz_28.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žena bližního",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na šifru štěkotu",
+      "file": "ochoz_28.html",
+      "words": 42,
+      "chars": 242,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 24,
+      "prev": "ochoz_27.html",
+      "next": "ochoz_29.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na šifru štěkotu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Deleatur",
+      "file": "ochoz_29.html",
+      "words": 97,
+      "chars": 572,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 25,
+      "prev": "ochoz_28.html",
+      "next": "ochoz_30.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Deleatur",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen",
+      "file": "ochoz_30.html",
+      "words": 69,
+      "chars": 372,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 26,
+      "prev": "ochoz_29.html",
+      "next": "ochoz_31.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rýpnutí okna",
+      "file": "ochoz_31.html",
+      "words": 58,
+      "chars": 332,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 27,
+      "prev": "ochoz_30.html",
+      "next": "ochoz_32.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rýpnutí okna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oproti",
+      "file": "ochoz_32.html",
+      "words": 65,
+      "chars": 375,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 28,
+      "prev": "ochoz_31.html",
+      "next": "ochoz_33.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Oproti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Je cítit",
+      "file": "ochoz_33.html",
+      "words": 36,
+      "chars": 218,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 29,
+      "prev": "ochoz_32.html",
+      "next": "ochoz_34.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Je cítit",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III.",
+      "file": "ochoz_34.html",
+      "words": 1,
+      "chars": 4,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 30,
+      "prev": "ochoz_33.html",
+      "next": "ochoz_35.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "25. XII.",
+      "file": "ochoz_35.html",
+      "words": 53,
+      "chars": 325,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 31,
+      "prev": "ochoz_34.html",
+      "next": "ochoz_36.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "25. XII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "29. XII.",
+      "file": "ochoz_36.html",
+      "words": 59,
+      "chars": 279,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 32,
+      "prev": "ochoz_35.html",
+      "next": "ochoz_37.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "29. XII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V lednu, ráno",
+      "file": "ochoz_37.html",
+      "words": 61,
+      "chars": 348,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 33,
+      "prev": "ochoz_36.html",
+      "next": "ochoz_38.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V lednu, ráno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vinou",
+      "file": "ochoz_38.html",
+      "words": 41,
+      "chars": 237,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 34,
+      "prev": "ochoz_37.html",
+      "next": "ochoz_39.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vinou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obratel dnešního rána",
+      "file": "ochoz_39.html",
+      "words": 103,
+      "chars": 598,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 35,
+      "prev": "ochoz_38.html",
+      "next": "ochoz_40.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obratel dnešního rána",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lednová sucha",
+      "file": "ochoz_40.html",
+      "words": 61,
+      "chars": 344,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 36,
+      "prev": "ochoz_39.html",
+      "next": "ochoz_41.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lednová sucha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Z dopisu, 4. I.",
+      "file": "ochoz_41.html",
+      "words": 85,
+      "chars": 437,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 37,
+      "prev": "ochoz_40.html",
+      "next": "ochoz_42.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z dopisu, 4. I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14. I.",
+      "file": "ochoz_42.html",
+      "words": 47,
+      "chars": 279,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 38,
+      "prev": "ochoz_41.html",
+      "next": "ochoz_43.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14. I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Do hry s černými acháty",
+      "file": "ochoz_43.html",
+      "words": 61,
+      "chars": 337,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 39,
+      "prev": "ochoz_42.html",
+      "next": "ochoz_44.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Do hry s černými acháty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tursko",
+      "file": "ochoz_44.html",
+      "words": 54,
+      "chars": 268,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 40,
+      "prev": "ochoz_43.html",
+      "next": "ochoz_45.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tursko",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lermontov, 5. II.",
+      "file": "ochoz_45.html",
+      "words": 107,
+      "chars": 609,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 41,
+      "prev": "ochoz_44.html",
+      "next": "ochoz_46.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lermontov, 5. II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7. II.",
+      "file": "ochoz_46.html",
+      "words": 29,
+      "chars": 172,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 42,
+      "prev": "ochoz_45.html",
+      "next": "ochoz_47.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7. II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zápis, 9. II.",
+      "file": "ochoz_47.html",
+      "words": 52,
+      "chars": 273,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 43,
+      "prev": "ochoz_46.html",
+      "next": "ochoz_48.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zápis, 9. II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11. II.",
+      "file": "ochoz_48.html",
+      "words": 78,
+      "chars": 462,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 44,
+      "prev": "ochoz_47.html",
+      "next": "ochoz_49.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11. II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV.",
+      "file": "ochoz_49.html",
+      "words": 1,
+      "chars": 3,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 45,
+      "prev": "ochoz_48.html",
+      "next": "ochoz_50.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zatmy",
+      "file": "ochoz_50.html",
+      "words": 290,
+      "chars": 1669,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 46,
+      "prev": "ochoz_49.html",
+      "next": "ochoz_51.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zatmy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5. VI.",
+      "file": "ochoz_51.html",
+      "words": 47,
+      "chars": 241,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 47,
+      "prev": "ochoz_50.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5. VI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 160,
+      "chars": 1095,
+      "ideas": 17,
+      "role": "colophon",
+      "order": null,
+      "prev": "ochoz_51.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 3133,
+      "chars": 17812,
+      "ideas": 780
+    },
+    "chapters": {
+      "words": 2968,
+      "chars": 16690,
+      "ideas": 759
+    }
+  }
+}

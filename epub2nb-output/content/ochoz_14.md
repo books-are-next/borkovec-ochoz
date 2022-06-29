@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Krátká hůl
+contentType: poetry
 ---
 
 <section>
-
-## Krátká hůl
 
 Ty,
 

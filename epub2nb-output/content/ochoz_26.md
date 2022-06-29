@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: K večeři
+contentType: poetry
 ---
 
 <section>
-
-## K večeři
 
 … když pojednou se rozzpíval  
 jak šerý ochořelý pták…
