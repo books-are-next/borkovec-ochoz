@@ -10,6 +10,8 @@ jak šerý ochořelý pták…
 
 J. Čapek
 
+<div class="centered">
+
 Dvorem šerý pták,  
 okoralé střechy, rozštěpy komínů.  
 Uštknuté děti pláčí domů. Jiné,  
@@ -21,5 +23,7 @@ hovor: — Je chladno. — Zima. —
 Dvůr opisuje šerý, smrtelně ochořelý pták.  
 Trvá. Slyším jak trvá, napsat dopis,  
 trvá, slyšet jak trvá, trvá.
+
+</div>
 
 </section>

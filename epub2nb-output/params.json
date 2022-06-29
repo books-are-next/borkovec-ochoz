@@ -25,7 +25,7 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "centered": ".*uprostred.*",
+      "centered": ".*uprostred.*\nochoz12-12midnastred\nochoz0-0l13nastred\nochoz0-0midnastred\nochoz12-0midnastred\nochoz12-12l13nastred\nochoz12-12r13nastred",
       "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\ne-bookvenovani\nochoz12-12rvpravoi",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
@@ -109,6 +109,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "I.",
             "children": [
               {
                 "filename": "ochoz_07.md",
@@ -133,8 +134,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ranní hůl"
+                "title": "Ranní hůl",
+                "children": []
               },
               {
                 "filename": "ochoz_09.md",
@@ -146,8 +147,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Červen, červenec"
+                "title": "Červen, červenec",
+                "children": []
               },
               {
                 "filename": "ochoz_10.md",
@@ -159,8 +160,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Srpen"
+                "title": "Srpen",
+                "children": []
               },
               {
                 "filename": "ochoz_11.md",
@@ -172,8 +173,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Září"
+                "title": "Září",
+                "children": []
               },
               {
                 "filename": "ochoz_12.md",
@@ -185,8 +186,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Říjen"
+                "title": "Říjen",
+                "children": []
               },
               {
                 "filename": "ochoz_13.md",
@@ -198,8 +199,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Listopad"
+                "title": "Listopad",
+                "children": []
               },
               {
                 "filename": "ochoz_14.md",
@@ -211,8 +212,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Krátká hůl"
+                "title": "Krátká hůl",
+                "children": []
               },
               {
                 "filename": "ochoz_15.md",
@@ -227,8 +228,7 @@
                 "title": "Křivá hůl",
                 "children": []
               }
-            ],
-            "title": "I."
+            ]
           },
           {
             "filename": "ochoz_16.md",
@@ -240,6 +240,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "II.",
             "children": [
               {
                 "filename": "ochoz_17.md",
@@ -251,8 +252,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Podzim"
+                "title": "Podzim",
+                "children": []
               },
               {
                 "filename": "ochoz_18.md",
@@ -264,8 +265,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vysečeným dvorem"
+                "title": "Vysečeným dvorem",
+                "children": []
               },
               {
                 "filename": "ochoz_19.md",
@@ -290,8 +291,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nesmrtelky"
+                "title": "Nesmrtelky",
+                "children": []
               },
               {
                 "filename": "ochoz_21.md",
@@ -316,8 +317,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dedikace"
+                "title": "Dedikace",
+                "children": []
               },
               {
                 "filename": "ochoz_23.md",
@@ -329,8 +330,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Na břehu cesty     "
+                "title": "Na břehu cesty     ",
+                "children": []
               },
               {
                 "filename": "ochoz_24.md",
@@ -368,8 +369,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "K večeři"
+                "title": "K večeři",
+                "children": []
               },
               {
                 "filename": "ochoz_27.md",
@@ -462,8 +463,7 @@
                 "title": "Je cítit",
                 "children": []
               }
-            ],
-            "title": "II."
+            ]
           },
           {
             "filename": "ochoz_34.md",
@@ -475,6 +475,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "III.",
             "children": [
               {
                 "filename": "ochoz_35.md",
@@ -512,8 +513,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V lednu, ráno"
+                "title": "V lednu, ráno",
+                "children": []
               },
               {
                 "filename": "ochoz_38.md",
@@ -538,8 +539,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Obratel dnešního rána"
+                "title": "Obratel dnešního rána",
+                "children": []
               },
               {
                 "filename": "ochoz_40.md",
@@ -564,8 +565,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Z dopisu, 4. I."
+                "title": "Z dopisu, 4. I.",
+                "children": []
               },
               {
                 "filename": "ochoz_42.md",
@@ -658,8 +659,7 @@
                 "title": "11. II.",
                 "children": []
               }
-            ],
-            "title": "III."
+            ]
           },
           {
             "filename": "ochoz_49.md",
@@ -671,6 +671,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "IV.",
             "children": [
               {
                 "filename": "ochoz_50.md",
@@ -698,8 +699,7 @@
                 "title": "5. VI.",
                 "children": []
               }
-            ],
-            "title": "IV."
+            ]
           },
           {
             "filename": "ochoz_52.md",
@@ -1132,6 +1132,6 @@
       "user": "books-are-next",
       "repo": "borkovec-ochoz"
     },
-    "generatedAt": 1656490169205
+    "generatedAt": 1656490920934
   }
 }
