@@ -62,7 +62,7 @@ readingOrder:
   - ochoz_49.html
   - ochoz_50.html
   - ochoz_51.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
