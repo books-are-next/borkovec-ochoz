@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borkovec-ochoz-79a24cc",
-  "revision": "79a24cc",
+  "identifier": "borkovec-ochoz-193ae1d",
+  "revision": "193ae1d",
   "readingOrder": [
     "promo.html",
     "ochoz_05.html",
@@ -59,11 +59,11 @@
     "ochoz_49.html",
     "ochoz_50.html",
     "ochoz_51.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 29 2022 08:23:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656491008449
+    "date": "Thu Jul 07 2022 08:16:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181794257
   },
   "documents": [
     {
@@ -852,7 +852,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Do hry s černými acháty",
+          "name": "Do hry s černými acháty",
           "id": null,
           "children": []
         }
@@ -1007,7 +1007,7 @@
       "role": "chapter",
       "order": 47,
       "prev": "ochoz_50.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1020,11 +1020,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 160,
-      "chars": 1095,
+      "chars": 1092,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "ochoz_51.html",
       "next": null,
@@ -1042,7 +1042,7 @@
   "totals": {
     "all": {
       "words": 3133,
-      "chars": 17812,
+      "chars": 17809,
       "ideas": 780
     },
     "chapters": {

@@ -66,7 +66,7 @@
             "filename": "ochoz_03.md",
             "xhtml": "ochoz_03.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -78,7 +78,7 @@
             "filename": "ochoz_04.md",
             "xhtml": "ochoz_04.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -705,7 +705,7 @@
             "filename": "ochoz_52.md",
             "xhtml": "ochoz_52.html",
             "id": 51,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -1132,6 +1132,6 @@
       "user": "books-are-next",
       "repo": "borkovec-ochoz"
     },
-    "generatedAt": 1656490920934
+    "generatedAt": 1657181662968
   }
 }
