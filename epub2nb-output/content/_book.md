@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-1794-0
 readingOrder:
   - promo.html
   - ochoz_05.html
