@@ -9,7 +9,7 @@ Redakce Jaroslava Bednářová
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN 978-80-274-1794-0 (webová kniha)  
-V MKP 2. elektronické vydání z 4. 10. 2022.
+V MKP 2. elektronické vydání z 7. 10. 2022.
 
 ***
 
@@ -27,7 +27,7 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Citační záznam této e-knihy:
 
-BORKOVEC, Petr. _Ochoz_ \[online\]. V MKP 2. elektronické vydání z 4. 10. 2022. Praha: Městská knihovna v Praze, 2017 \[cit. 4. 10. 2022]. ISBN 978-80-7532-718-5 (epub). Dostupné z:
+BORKOVEC, Petr. _Ochoz_ \[online\]. V MKP 2. elektronické vydání z 7. 10. 2022. Praha: Městská knihovna v Praze, 2017 \[cit. 7. 10. 2022]. ISBN 978-80-7532-718-5 (epub). Dostupné z:
 
 [http://web2.mlp.cz/koweb/00/04/33/50/04/ochoz.epub](http://web2.mlp.cz/koweb/00/04/33/50/04/ochoz.epub).
 
