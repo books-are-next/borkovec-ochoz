@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borkovec-ochoz-d9038d0",
-  "revision": "d9038d0",
+  "identifier": "borkovec-ochoz-bb36727",
+  "revision": "bb36727",
   "readingOrder": [
     "promo.html",
     "ochoz_05.html",
@@ -62,8 +62,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 21 2022 10:44:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1666349089079
+    "date": "Fri Oct 21 2022 11:24:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351495146
   },
   "documents": [
     {
